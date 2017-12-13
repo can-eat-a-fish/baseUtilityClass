@@ -1,5 +1,4 @@
 package com.dongkesoft.iboss.utils;
-
 import android.view.View;
 
 /* 
